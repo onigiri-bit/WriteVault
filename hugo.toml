@@ -6,6 +6,9 @@ paginate        = 10
 theme           = "PaperMod"
 enableRobotsTXT = true
 
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [markup]
   [markup.highlight]
     style       = "monokai"
