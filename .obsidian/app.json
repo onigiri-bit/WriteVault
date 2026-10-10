@@ -1,0 +1,11 @@
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "static/images",
+  "userIgnoreFilters": [
+    "themes/",
+    "public/",
+    "static/",
+    "resources/",
+    "archetypes/"
+  ]
+}

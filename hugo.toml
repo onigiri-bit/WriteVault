@@ -1,0 +1,56 @@
+baseURL         = "https://onigiri-bit.github.io/WriteVault/"
+title           = "写字的地方"
+locale          = "zh-cn"
+hasCJKLanguage  = true
+paginate        = 10
+theme           = "PaperMod"
+enableRobotsTXT = true
+
+[markup]
+  [markup.highlight]
+    style       = "monokai"
+    guessSyntax = true
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  description        = "一个运营岗的人，慢慢学代码，顺便记录生活。周更长文，不设目标，不看数据。"
+  author             = "onigiri"
+  defaultTheme       = "auto"
+  ShowReadingTime    = true
+  ShowWordCount      = true
+  ShowPostNavLinks   = true
+  ShowBreadCrumbs    = true
+  ShowCodeCopyButtons= true
+  ShowShareButtons   = false
+  comments           = false
+  hideMeta = false
+
+  [params.homeInfoParams]
+    Title   = "你好，这里是 fan"
+    Content = "周更一篇 1000 字以上的长文，记录学 SQL/Python 的过程和生活。豆瓣同名。"
+
+[[params.socialIcons]]
+  name = "github"
+  url  = "https://github.com/onigiri-bit"
+
+[[params.socialIcons]]
+  name = "rss"
+  url  = "index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url  = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url  = "/archives/"
+    weight = 2
+  [[menu.main]]
+    identifier = "search"
+    name = "搜索"
+    url  = "/search/"
+    weight = 3
