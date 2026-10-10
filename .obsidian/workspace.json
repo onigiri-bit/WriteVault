@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/search.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "search"
+              "title": "default"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "34c6fe2a641b18d2",
   "lastOpenFiles": [
-    "content/posts/未命名.md",
     "content/search.md",
+    "content/posts/未命名.md",
     "content/archives.md",
     "resources",
     "public"

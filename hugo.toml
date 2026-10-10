@@ -17,7 +17,7 @@ enableRobotsTXT = true
     unsafe = true
 
 [params]
-  description        = "一个运营岗的人，慢慢学代码，顺便记录生活。周更长文，不设目标，不看数据。"
+  description        = "一个待业牛马，慢慢学代码，顺便记录生活。周更长文，不设目标，不看数据。"
   author             = "onigiri"
   defaultTheme       = "auto"
   ShowReadingTime    = true
@@ -30,8 +30,8 @@ enableRobotsTXT = true
   hideMeta = false
 
   [params.homeInfoParams]
-    Title   = "你好，这里是 fan"
-    Content = "周更一篇 1000 字以上的长文，记录学 SQL/Python 的过程和生活。豆瓣同名。"
+    Title   = "你好，这里是 梁茶"
+    Content = "周更一篇 1000 字以上的长文，记录学 SQL/Python 的过程和生活。小红书🍠同名。"
 
 [[params.socialIcons]]
   name = "github"
