@@ -1,5 +1,8 @@
-+++
-date = '{{ .Date }}'
-draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-+++
+---
+title: No.000
+date: <% tp.date.now("YYYY-MM-DD") %>
+draft: true
+tags: []
+---
+
+

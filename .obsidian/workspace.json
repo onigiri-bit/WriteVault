@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/No.001 内存涨到顶我才上车：一个拖了3年的换机决定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "default"
+              "title": "No.001 内存涨到顶我才上车：一个拖了3年的换机决定"
             }
           }
         ]
@@ -196,14 +196,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "34c6fe2a641b18d2",
   "lastOpenFiles": [
-    "content/search.md",
-    "content/posts/未命名.md",
+    "archetypes/default.md",
+    "content/posts/No.001 内存涨到顶我才上车：一个拖了3年的换机决定.md",
     "content/archives.md",
+    "未命名.md",
+    "content/search.md",
     "resources",
     "public"
   ]
