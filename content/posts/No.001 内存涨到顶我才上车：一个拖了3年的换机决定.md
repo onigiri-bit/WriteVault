@@ -1,7 +1,7 @@
 ---
 title: No.001 内存涨到顶我才上车：一个拖了3年的换机决定
 date: 2026-10-11
-draft: true
+draft: false
 tags:
   - 踩坑
   - 生活
