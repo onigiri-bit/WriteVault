@@ -15,3 +15,7 @@ resources/
 
 # Obsidian Git 插件本机配置
 .obsidian/plugins/obsidian-git/data.json
+
+# 草稿目录：内容一律不上传，只保留目录本身
+drafts/*
+!drafts/.gitkeep
