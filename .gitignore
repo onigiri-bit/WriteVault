@@ -1,0 +1,17 @@
+# Hugo 构建产物（GitHub Actions 会自己生成）
+public/
+resources/
+.hugo_build.lock
+
+# Obsidian 回收站
+.trash
+
+# Syncthing 版本备份
+.stversions
+
+# Obsidian 工作区布局（记录面板/标签状态，每次开关都会变，无同步价值）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian Git 插件本机配置
+.obsidian/plugins/obsidian-git/data.json
